@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-    	System.out.println( "Brand new feature with issue fixed." );
+    	System.out.println( "Demo" );
     }
 }
