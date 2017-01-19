@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-    	System.out.println( "A branch that is not working!" );
+    	System.out.println( "A fix to the bug." );
     }
 }
