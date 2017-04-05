@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-    	System.out.println( "DemoFeture Branch" );
+    	System.out.println( "Master commit" );
     }
 }
